@@ -15,5 +15,13 @@ Functional Requirements:
 
 1. HOW TO INSTALL?
 ----------------------------------------------------------------------------------------
-1. Rename env with specific values
+1. Rename envexample with specific values, database host, username and password
+2. `npm install` and `npm run dev`
+3. `composer install` and `php artisan key:generate`
+3. `php artisan migrate`
+4. `php artisan db:seed --class=AdminSeeder` for seeding
+5. `php artisan storage:link`
+6. `php artisan serve`
+7. Login with `admin@example.com` and password is `password`
+8. Test by adding users 
 

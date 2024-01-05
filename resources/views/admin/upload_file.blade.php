@@ -29,7 +29,7 @@
                                 <p class="text-danger">{{ $message }}</p>
                             @enderror
                         </div>
-
+                        <p>Supported format:png,jpeg,pdf and MaxSize: 2 MB</p>
                         <button type="submit" class="btn btn-primary" style="background-color: #007bff; border-color: #007bff;">Upload File</button>
                     </form>
                 </div>
