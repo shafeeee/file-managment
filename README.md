@@ -23,5 +23,5 @@ Functional Requirements:
 5. `php artisan storage:link`
 6. `php artisan serve`
 7. Login with `admin@example.com` and password is `password`
-8. Test by adding users 
+8. Test by adding users , refer video `https://www.loom.com/share/3d323afcc5204654b9e0532503fb1490`
 
